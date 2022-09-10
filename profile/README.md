@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./social_transparent.png">
-    <source media="(prefers-color-scheme: light)" srcset="./social.png" width="650">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/meeseOS/.github/tree/main/profile/social_transparent.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/meeseOS/.github/tree/main/profile/social.png" width="650">
     <img alt="meeseOS logo" title="meeseOS logo">
   </picture>
 </p>
